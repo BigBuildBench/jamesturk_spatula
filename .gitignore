@@ -1,0 +1,10 @@
+*.pyc
+poetry.lock
+build/
+dist/
+*.egg-info/
+_build
+_scrapes/
+.coverage
+htmlcov/
+site/
